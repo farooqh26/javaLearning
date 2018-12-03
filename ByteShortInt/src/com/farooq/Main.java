@@ -9,5 +9,6 @@ public class Main {
         int myValue = 50;
         long totalLongNumber = 50000L + 10L * (myByteNumber + myShortNumber + myValue);
         System.out.println("longTotal =" + totalLongNumber);
+        System.out.println("Testing GitHub");
     }
 }
